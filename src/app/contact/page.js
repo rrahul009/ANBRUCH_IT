@@ -20,7 +20,7 @@ const ContactPage = () => {
         />
         <div className="absolute inset-0 flex flex-col items-center justify-center z-10 overlay-animation">
           <h1 className="text-white text-3xl font-bold bg-opacity-50 p-4 rounded mb-4">
-            We're Here to Help!
+            We're Here to Help hereee!
           </h1>
           <button className="bg-white text-black text-lg font-bold px-6 py-3 rounded shadow-lg hover:bg-gray-200 transition duration-300">
             We'd Love to Hear from You
