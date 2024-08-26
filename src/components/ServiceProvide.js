@@ -18,7 +18,7 @@ const serviceIcons = {
   'Python Development': <FaPython />,
   'Database Management': <FaDatabase />,
   'SQL': <FaDatabase />,
-  'Apple Development': <FaApple />,
+  'IOS Development': <FaApple />,
   'Android Development': <FaAndroid />,
   'CSS Styling': <FaCss3 />,
   'Salesforce Development': <FaSalesforce />,

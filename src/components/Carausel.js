@@ -81,7 +81,7 @@ const Carausel = () => {
           </div>
         </div>
         <div style={containerStyle}>
-          <img style={imageStyle} src="https://images.inc.com/uploaded_files/image/1920x1080/getty_525352022_211761.jpg" alt="Slide 1" />
+          <img style={imageStyle} src="Firefly bussiness image for website 1193.jpg" alt="Slide 1" />
           <div style={{ ...textOverlayStyle, animationDelay: '0.5s' }}>
             <h2 className='text-white text-3xl'>Full cycle software development</h2>
             <p className='text-6xl'>From Idea To Product</p>
