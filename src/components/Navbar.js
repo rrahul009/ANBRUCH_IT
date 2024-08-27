@@ -64,7 +64,7 @@ const Navbar = () => {
                   <button onClick={() => setSelectedService('service3')} className="block px-4 py-2 hover:bg-gray-100 transition-colors duration-300 text-sm"><Link href="/analytics">Analytics</Link> </button>
                 </li>
                 <li>
-                  <button onClick={() => setSelectedService('service3')} className="block px-4 py-2 hover:bg-gray-100 transition-colors duration-300 text-sm"><Link href="/qualityAuth">Quality Authentication</Link></button>
+                  <button onClick={() => setSelectedService('service3')} className="block px-4 py-2 hover:bg-gray-100 transition-colors duration-300 text-sm"><Link href="/qualityauth">Quality Authentication</Link></button>
                 </li>
                 <li>
                   <button onClick={() => setSelectedService('service3')} className="block px-4 py-2 hover:bg-gray-100 transition-colors duration-300 text-sm"> <Link href="/techconsulting">Tech Consulting</Link></button>
@@ -73,7 +73,7 @@ const Navbar = () => {
                   <button onClick={() => setSelectedService('service3')} className="block px-4 py-2 hover:bg-gray-100 transition-colors duration-300 text-sm"> <Link href="/managedservice">Managed Services</Link></button>
                 </li>
                 <li>
-                  <button onClick={() => setSelectedService('service3')} className="block px-4 py-2 hover:bg-gray-100 transition-colors duration-300 text-sm"> <Link href="/managedservice">Staff augmentation services</Link></button>
+                  <button onClick={() => setSelectedService('service3')} className="block px-4 py-2 hover:bg-gray-100 transition-colors duration-300 text-sm"> <Link href="/staffaugmentation">Staff augmentation services</Link></button>
                 </li>
               </ul>
             </li>

@@ -71,27 +71,29 @@ const Carausel = () => {
       >
      
         <div style={containerStyle}>
-          <img style={imageStyle} src="bussinee2.jpg" alt="Slide 2" />
+          <img style={imageStyle} src="https://img.freepik.com/free-photo/mid-section-two-unrecognizable-businessmen-shaking-hands-finalize-deal_1098-19499.jpg" alt="Slide 2" />
           <div style={{ ...textOverlayStyle, animationDelay: '1s' }}>
-          <h2 className='text-white text-3xl'>Full cycle software development</h2>
-            <p className='text-6xl'>From Idea To Product</p>
-            <p style={paragraphStyle}>Consulting services from an idea to 
-              strategy and enhancement
-            </p>
-          </div>
+  <h2 className='text-white text-3xl'>End-to-End Software Solutions</h2>
+  <p className='text-6xl'>From Concept to Completion</p>
+  <p style={paragraphStyle}>
+    Expert consulting services guiding you from initial concept through strategy, development, and enhancement.
+  </p>
+</div>
+
         </div>
         <div style={containerStyle}>
           <img style={imageStyle} src="Firefly bussiness image for website 1193.jpg" alt="Slide 1" />
           <div style={{ ...textOverlayStyle, animationDelay: '0.5s' }}>
-            <h2 className='text-white text-3xl'>Full cycle software development</h2>
-            <p className='text-6xl'>From Idea To Product</p>
-            <p style={paragraphStyle}>Consulting services from an idea to 
-              strategy and enhancement
-            </p>
-          </div>
+  <h2 className='text-white text-3xl'>Comprehensive Software Development</h2>
+  <p className='text-6xl'>From Vision to Reality</p>
+  <p style={paragraphStyle}>
+    Expert guidance and solutions from initial vision through strategic planning, development, and continuous enhancement.
+  </p>
+</div>
+
         </div>
         <div style={containerStyle}>
-          <img style={imageStyle} src="bussiness4.jpg" alt="Slide 3" />
+          <img style={imageStyle} src="image (2).png" alt="Slide 3" />
           <div style={{ ...textOverlayStyle, animationDelay: '1.5s' }}>
           <h2 className='text-white text-3xl'>Full cycle software development</h2>
             <p className='text-6xl'>From Idea To Product</p>

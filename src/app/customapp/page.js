@@ -11,12 +11,13 @@ const CustomAppDevelopmentPage = () => {
       <Header />
       <Navbar />
 
-      <main className="p-6 md:p-10 lg:p-12">
+      <main className="p-6 md:p-10 lg:p-4">
         {/* Hero Section */}
+        <section className="bg-gradient-to-r from-blue-500 to-teal-400 text-center py-2 rounded-lg mb-5">
+          <h1 className="text-5xl font-bold text-white mb-0"> Our Development Services</h1>
+        </section>
         <section className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4 text-gray-800 leading-tight">
-            Our Development Services
-          </h1>
+          
           <p className="text-lg md:text-xl text-gray-600">
             We specialize in delivering high-quality mobile apps, web apps, and UX/UI designs. Discover our comprehensive services below.
           </p>
