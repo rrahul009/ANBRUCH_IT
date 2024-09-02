@@ -26,7 +26,7 @@ const features = [
 
 const OurFeature = () => {
   return (
-    <div className="py-12 px-6 bg-gray-50">
+    <div className="py-12 px-6 bg-gray-50" data-aos="fade-up-right">
       <div className="text-center mb-12">
         <h1 className="text-3xl font-bold text-gray-800 mb-4">Why Choose Us</h1>
         <h2 className="text-xl font-medium text-gray-600">Design the Concept of Your Business Idea Now</h2>

@@ -36,7 +36,7 @@ import Development from './Development';
 
 const OurServices = () => {
     return (
-        <div className="py-10 px-4">
+        <div className="py-10 px-4" data-aos="fade-up">
             {/* <div className="text-center mb-10">
                 <h2 className="text-2xl font-bold inline-block mb-1">Our Services</h2>
                 <hr className="border-gray-800 mx-auto mt-0 mb-5 w-1/6" />

@@ -73,7 +73,7 @@ const MobileAppDevelopmentPage = () => {
         </section>
 
         {/* Benefits Section */}
-        <section id="benefits" className="bg-gray-100 py-12">
+        <section id="benefits" className="bg-gray-100 py-12" >
           <h2 className="text-2xl font-semibold text-center mb-6">Why Choose Us?</h2>
           <div className="container mx-auto text-center">
             <p className="text-lg mb-4">

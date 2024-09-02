@@ -6,7 +6,9 @@ const CompanyOverview = () => {
   return (
     <div className="flex flex-wrap justify-center gap-8 p-6 bg-gray-50 mb-5">
       {/* Card 1: Countries Worldwide */}
-      <div className="w-full sm:w-1/2 lg:w-1/3 bg-white border border-gray-200 shadow-lg rounded-lg overflow-hidden transform transition-transform duration-300 hover:shadow-xl hover:scale-105">
+      <div className="w-full sm:w-1/2 lg:w-1/3 bg-white border border-gray-200 shadow-lg 
+      rounded-lg overflow-hidden transform transition-transform duration-300 hover:shadow-xl
+       hover:scale-105"data-aos="flip-left">
         <div className="p-6">
           <div className="flex items-center mb-4">
             <div className="flex-shrink-0 w-12 h-12 bg-blue-100 text-blue-500 rounded-full flex items-center justify-center">
@@ -21,7 +23,9 @@ const CompanyOverview = () => {
       </div>
 
       {/* Card 2: Happy Customers */}
-      <div className="w-full sm:w-1/2 lg:w-1/3 bg-white border border-gray-200 shadow-lg rounded-lg overflow-hidden transform transition-transform duration-300 hover:shadow-xl hover:scale-105">
+      <div className="w-full sm:w-1/2 lg:w-1/3 bg-white border border-gray-200 shadow-lg 
+      rounded-lg overflow-hidden transform transition-transform duration-300 hover:shadow-xl
+       hover:scale-105"data-aos="flip-left">
         <div className="p-6">
           <div className="flex items-center mb-4">
             <div className="flex-shrink-0 w-12 h-12 bg-green-100 text-green-500 rounded-full flex items-center justify-center">
